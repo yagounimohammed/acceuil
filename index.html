@@ -35,6 +35,20 @@
     .btn-contact:hover {
       background-color: #1c5d89;
     }
+.btn-integration {
+  background-color: #27ae60;
+  color: white;
+  padding: 12px 24px;
+  border-radius: 6px;
+  text-decoration: none;
+  font-weight: bold;
+  display: inline-block;
+  margin-top: 20px;
+  transition: background-color 0.3s ease;
+}
+.btn-integration:hover {
+  background-color: #1e8449;
+}
     main {
       padding: 40px 20px;
       max-width: 800px;
@@ -64,6 +78,7 @@
     <p>Accueil</p>
     <!-- 👇 Le bouton est bien ici -->
     <a href="https://yagounimohammed.github.io/mecontacter/" class="btn-contact">Me contacter</a>
+<a href="https://yagounimohammed.github.io/di/" class="btn-integration" target="_blank">Domaine d’intégration</a>
   </header>
 
   <main>
