@@ -49,6 +49,23 @@
 .btn-integration:hover {
   background-color: #1e8449;
 }
+.button-container {
+  margin-top: 20px;
+}
+.btn-cps {
+  background-color: #8e44ad;
+  color: white;
+  padding: 12px 24px;
+  border-radius: 6px;
+  text-decoration: none;
+  font-weight: bold;
+  display: inline-block;
+  margin-top: 20px;
+  transition: background-color 0.3s ease;
+}
+.btn-cps:hover {
+  background-color: #6c3483;
+}
     main {
       padding: 40px 20px;
       max-width: 800px;
@@ -79,6 +96,7 @@
     <!-- 👇 Le bouton est bien ici -->
     <a href="https://yagounimohammed.github.io/mecontacter/" class="btn-contact">Me contacter</a>
 <a href="https://yagounimohammed.github.io/di/" class="btn-integration" target="_blank">Domaine d’intégration</a>
+<a href="https://yagounimohammed.github.io/cps/" class="btn-cps" target="_blank">Communications & Publications</a>
   </header>
 
   <main>
