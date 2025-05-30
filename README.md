@@ -1,1 +1,92 @@
-# acceuil
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>YAGOUNI Mohammed</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: 'Segoe UI', sans-serif;
+      background-color: #f9f9f9;
+      color: #333;
+    }
+    header {
+      background-color: #2c3e50;
+      color: white;
+      text-align: center;
+      padding: 60px 20px;
+    }
+    header h1 {
+      font-size: 2.8em;
+      margin-bottom: 10px;
+    }
+    .btn-contact {
+      background-color: #2980b9;
+      color: white;
+      padding: 12px 24px;
+      text-decoration: none;
+      font-weight: bold;
+      border-radius: 6px;
+      display: inline-block;
+      margin-top: 20px;
+      transition: background 0.3s ease;
+    }
+    .btn-contact:hover {
+      background-color: #1c5d89;
+    }
+    main {
+      padding: 40px 20px;
+      max-width: 800px;
+      margin: 0 auto;
+    }
+    section {
+      margin-bottom: 30px;
+    }
+    h2 {
+      color: #2c3e50;
+      border-bottom: 2px solid #ddd;
+      padding-bottom: 5px;
+    }
+    footer {
+      text-align: center;
+      background-color: #eee;
+      padding: 20px;
+      color: #666;
+      font-size: 0.9em;
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <h1>YAGOUNI Mohammed</h1>
+    <p>Accueil</p>
+    <!-- 👇 Le bouton est bien ici -->
+    <a href="https://yagounimohammed.github.io/mecontacter/" class="btn-contact">Me contacter</a>
+  </header>
+
+  <main>
+    <section>
+      <h2>Situation familiale</h2>
+      <p>Marié, père de 3 enfants</p>
+    </section>
+
+    <section>
+      <h2>Diplômes</h2>
+      <ul>
+        <li>Doctorat es Science en Mathématiques</li>
+        <li>Magister en Mathématiques</li>
+        <li>Ingéniorat d’État en Mathématiques</li>
+        <li>Baccalauréat en Mathématiques (Série C)</li>
+        <li>Brevet d’Enseignement Polytechnique</li>
+      </ul>
+    </section>
+  </main>
+
+  <footer>
+    &copy; 2025 YAGOUNI Mohammed - Tous droits réservés.
+  </footer>
+
+</body>
+</html>
