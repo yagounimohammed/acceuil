@@ -8,6 +8,7 @@
   <img src="https://cdn.discordapp.com/attachments/1377572968766636084/1379185972478083142/Sans_titre.jpeg?ex=68429e47&is=68414cc7&hm=9a2377fd580a563b71d12d30e72487fa739772afa5bcb8d6a6dba9e7441edb20&" alt="Photo" style="width: 100px; height: 100px; border-radius: 50%; margin-right: 20px;">
   <h1>YAGOUNI Mohammed</h1>
 </div>
+<link rel="icon" type="image/png" href="https://cdn.discordapp.com/attachments/1377572968766636084/1379185972478083142/Sans_titre.jpeg?ex=68429e47&is=68414cc7&hm=9a2377fd580a563b71d12d30e72487fa739772afa5bcb8d6a6dba9e7441edb20&">
   <style>
     body {
       margin: 0;
