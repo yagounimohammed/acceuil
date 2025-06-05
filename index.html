@@ -97,8 +97,7 @@
 <body>
 
   <header>
-    <h1>YAGOUNI Mohammed</h1>
-    <p>Accueil</p>
+    <h1>Acceuil</h1>
     <!-- 👇 Le bouton est bien ici -->
     <a href="https://yagounimohammed.github.io/mecontacter/" class="btn-contact">Me contacter</a>
 <a href="https://yagounimohammed.github.io/di/" class="btn-integration" target="_blank">Domaines d'intérêt</a>
