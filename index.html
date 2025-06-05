@@ -4,12 +4,17 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
   <title>YAGOUNI Mohammed</title>
+<div style="display: flex; align-items: center;">
+  <img src="https://cdn.discordapp.com/attachments/1377572968766636084/1379185972478083142/Sans_titre.jpeg?ex=68429e47&is=68414cc7&hm=9a2377fd580a563b71d12d30e72487fa739772afa5bcb8d6a6dba9e7441edb20&" alt="Photo" style="width: 100px; height: 100px; border-radius: 50%; margin-right: 20px;">
+  <h1>YAGOUNI Mohammed</h1>
+</div>
   <style>
     body {
       margin: 0;
       font-family: 'Segoe UI', sans-serif;
       background-color: #f9f9f9;
       color: #333;
+        line-height: 1.6;
     }
     header {
       background-color: #2c3e50;
